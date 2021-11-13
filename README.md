@@ -1,6 +1,6 @@
 ## Sahapan Kanjanothai
 ### I am a (ex) lawyer who changed career to web developer ... 💻
-![cover photo](https://raw.githubusercontent.com/sahapan-k/sahapan-k/master/assets/cover.webp)
+![cover photo](https://raw.githubusercontent.com/sahapan-k/sahapan-k/main/sahapan-k/assets/cover.webp)
 
 <p>
 I graduated from Faculty of Law, Chulalongkorn University, and worked as an Litigation lawyer at regional law firm for a year. Then I decided to changed my career path, which in turn will much more fitted with my preferred life style.
@@ -12,7 +12,7 @@ I graduated from Faculty of Law, Chulalongkorn University, and worked as an Liti
 - Long term goal: Relocate to New Zealand!
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/sahapan-k/sahapan-k/master/assets/seola-typing.gif" />
+<img src="https://raw.githubusercontent.com/sahapan-k/sahapan-k/main/sahapan-k/assets/seola-typing.gif" />
 </div>
 
 <h2><b>💻  Tech Stack</b></h2>
@@ -37,9 +37,9 @@ I graduated from Faculty of Law, Chulalongkorn University, and worked as an Liti
 <div>
   <h3 align="center">Connect with me</h3>
   <p align="center">
-    <a href= "https://www.linkedin.com/in/sahapan-k/"><img src="https://raw.githubusercontent.com/sahapan-k/sahapan-k/master/assets/linkedin.png" height="50" /></a>
-    <a href= "mailto:sahapan.kanjanothai@gmail.com"><img src="https://raw.githubusercontent.com/sahapan-k/sahapan-k/master/assets/email.png" height="50" /></a>
-    <a href= "https://www.facebook.com/paakkung/"><img src="https://raw.githubusercontent.com/sahapan-k/sahapan-k/master/assets/facebook.png" height="50" /></a>
-    <a href= "https://www.instagram.com/paak.kanjanothai/"><img src="https://raw.githubusercontent.com/sahapan-k/sahapan-k/master/assets/instagram.png" height="50" /></a>
+    <a href= "https://www.linkedin.com/in/sahapan-k/"><img src="https://raw.githubusercontent.com/sahapan-k/sahapan-k/main/sahapan-k/assets/linkedin.png" height="50" /></a>
+    <a href= "mailto:sahapan.kanjanothai@gmail.com"><img src="https://raw.githubusercontent.com/sahapan-k/sahapan-k/main/sahapan-k/assets/email.png" height="50" /></a>
+    <a href= "https://www.facebook.com/paakkung/"><img src="https://raw.githubusercontent.com/sahapan-k/sahapan-k/main/sahapan-k/assets/facebook.png" height="50" /></a>
+    <a href= "https://www.instagram.com/paak.kanjanothai/"><img src="https://raw.githubusercontent.com/sahapan-k/sahapan-k/main/sahapan-k/assets/instagram.png" height="50" /></a>
   </p>
 </div>
